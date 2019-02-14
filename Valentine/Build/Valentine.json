@@ -1,0 +1,12 @@
+{
+"companyName": ".",
+"productName": "Valentine",
+"dataUrl": "Valentine.data.unityweb",
+"wasmCodeUrl": "Valentine.wasm.code.unityweb",
+"wasmFrameworkUrl": "Valentine.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
